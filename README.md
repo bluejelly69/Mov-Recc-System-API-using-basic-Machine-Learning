@@ -59,6 +59,9 @@ Use the /recommend/{user_id} endpoint to get movie recommendations for a specifi
 This will return a JSON response with movie recommendations for user_id 1.
 
 
+JUST RUN THE USER IDS.PY IF YOU WANNA LIST ALL THE USER IDS
+
+
 Cloud Deployment
 The application can be deployed on cloud platforms like AWS or Google Cloud. Use Docker for containerization or deploy directly using services like Elastic Beanstalk, App Engine, or Cloud Run for easy scalability and management.
 
